@@ -56,3 +56,15 @@ Velociraptor is a powerful, open-source endpoint detection and response (EDR) an
 Velociraptor can be deployed across a variety of environments, from small offices to large enterprise networks. It integrates well with existing SIEMs and other cybersecurity tools, enabling it to augment your existing security monitoring and incident response workflows. It also provides a web interface for easy management and query execution, allowing teams to quickly identify and respond to emerging threats.
 
 Overall, Velociraptor is a versatile and lightweight tool that provides critical endpoint monitoring and forensic capabilities, making it invaluable for proactive security monitoring, threat detection, and incident response efforts in modern cybersecurity operations.
+
+
+Credentials: 
+Ubuntu
+password
+
+./velociraptor-v0.6.0-1-linux-amd64 --config /etc/velociraptor.config.yaml frontend -v
+
+Utilising a browser, enter the local host IP address and utilise port 8889.
+
+Look at the documentation for adding new clients.
+
